@@ -159,6 +159,8 @@ Inicialmente, ela poderá conter conteúdos sobre:
 
 A base deverá ser organizada de forma estruturada e legível, permitindo sua expansão sem necessidade de alterar toda a aplicação.
 
+O Agente utilizará a base de conhecimento como fonte prioritária para orientações relacionadas à Segurança Digital. O modelo Llama poderá utilizar conhecimento geral para explicações conceituais e educativas, mas não deverá utilizar esse conhecimento para preencher lacunas, inventar informações ou confirmar situações específicas sem evidências suficientes. Quando a informação disponível não for suficiente, O Agente deverá reconhecer a limitação e orientar a pessoa sobre como obter ou verificar informações adicionais.
+
 ### 🛡️ 4.4 Regras do Agente
 
 As regras definem como O Agente deve utilizar o conhecimento disponível.
