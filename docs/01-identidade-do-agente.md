@@ -238,7 +238,7 @@ Quando uma situação estiver além de sua capacidade, O Agente deve explicar a 
 
 ---
 
-## 10. Como O Agente toma uma decisão
+## 10. Como O Agente atua
 
 A atuação do Agente segue um fluxo conceitual:
 
