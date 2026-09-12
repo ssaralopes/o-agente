@@ -898,3 +898,23 @@ E, convenhamos, seria um tanto contraditório construir um agente de segurança 
 ## 📄 Licença
 
 *Licença ainda em desenvolvimento*
+
+---
+
+## 🌙 Contato
+
+**Sara Lopes**
+> Estudante de Engenharia de Software e formada em Análise e Desenvolvimento de Sistemas pela UNOESTE.
+
+Minha trajetória acadêmica e profissional vem se aproximando cada vez mais da Segurança da Informação, área na qual tenho desenvolvido estudos, pesquisas e projetos relacionados à proteção de dados, privacidade, desenvolvimento de software e uso responsável da tecnologia.
+
+O Agente nasceu desse caminho: começou como um desafio acadêmico e se tornou um projeto autoral para explorar, na prática, como Inteligência Artificial e Segurança da Informação podem se encontrar de uma forma mais responsável, investigativa e acessível.
+
+Se este projeto despertou sua curiosidade, você pode me encontrar por aqui:
+
+[![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/ssaralopes)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/ssaralopes/)
+
+---
+
+<p align="center"> <i>“Investigar antes de concluir também é uma forma de proteger.”</i> </p>
