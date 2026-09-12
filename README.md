@@ -210,7 +210,9 @@ o-agente/
 │   ├── 01-identidade-do-agente.md
 │   ├── 02-arquitetura.md
 │   ├── 03-prompts.md
-│   └── ...
+│   ├── 04-casos-de-teste.md
+│   ├── 05-avaliacao-e-metricas.md
+│   └── 06-pitch.md
 │
 ├── knowledge/
 │   ├── ameacas/
